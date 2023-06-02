@@ -1,7 +1,7 @@
 
 <div align=center> 
 <h1>Frontend de✌eloper 이지선입니다!</h1>
-<h2>방문해 주셔서 감사합니다🙌</h2>
+<h3>방문해 주셔서 감사합니다🙌</h3>
 <br/>
 <h2>STACK🎯</h2>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp
