@@ -1,6 +1,5 @@
 
 <div align=center> 
-<h1>Frontend de✌eloper 이지선입니다!</h1>
 <h3>방문해 주셔서 감사합니다🙌</h3>
 <br/>
 <h2>STACK🎯</h2>
